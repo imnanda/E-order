@@ -78,17 +78,23 @@ include "navbar.php";
                             </thead>
                             <tbody>
                             <?php
-                            $res = mysql_query("SELECT id_kategori,nama,dihapus FROM kategori ORDER BY nama");
+                            $res = mysql_query("SELECT * FROM kategori ORDER BY nama");
                             if ($res === false) {
                                 die(mysql_error());
                             }
                             $i=1;
                             while ($data = mysql_fetch_array($res)) {
                                 ?>
-                                <td><?php echo $i ?></td>
-                                <td><?php echo $data['nama']; ?></td>
-                                <td><?php echo $data['dihapus']; ?></td>
-                                <td><a href="edit_kategori.php?id=<?php echo$data['id_kategori']; ?>">Edit </a></td>
+                                <tr>
+                                    <td><?php echo $i ?></td>
+                                    <td><?php echo $data['nama']; ?></td>
+                                    <td><?php if($data['dihapus']=="T"){ echo "Tidak";} else echo "Ya"?></td>
+                                    <td>
+                                        <a href="edit_kategori.php?id_kategori=<?php echo $data['id_kategori']; ?>">Edit </a>
+                                        / <a href="proses/hapus_kategori.php?id_kategori=<?php echo $data['id_kategori']; ?>">Hapus </a>
+                                    </td>
+                                </tr>
+
                             <?php
                             $i++; }
                             ?>

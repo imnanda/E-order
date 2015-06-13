@@ -112,14 +112,12 @@
                 <a href="tambah_merek.php"><i class="fa fa-fw fa-edit"></i> Tambah Data Merek</a>
             </li>
             <li>
-                <a href="bootstrap-grid.html"><i class="fa fa-fw fa-wrench"></i> Edit Data Produk</a>
+                <a href="view_kategori.php"><i class="fa fa-fw fa-desktop"></i> View kategori</a>
             </li>
             <li>
-                <a href="bootstrap-grid.html"><i class="fa fa-fw fa-wrench"></i> Edit Data Ketegri</a>
+                <a href="view_merek.php"><i class="fa fa-fw fa-desktop"></i> View Merek</a>
             </li>
-            <li>
-                <a href="bootstrap-grid.html"><i class="fa fa-fw fa-wrench"></i> Edit Data Merek</a>
-            </li>
+
 
         </ul>
     </div>

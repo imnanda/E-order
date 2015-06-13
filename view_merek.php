@@ -63,7 +63,7 @@ include "navbar.php";
         <div class="col-lg-12">
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    <h3 class="panel-title"><i class="fa fa-money fa-fw"></i> Table Produk</h3>
+                    <h3 class="panel-title"><i class="fa fa-money fa-fw"></i> Table Merk</h3>
                 </div>
                 <div class="panel-body">
                     <div class="table-responsive">
@@ -88,8 +88,11 @@ include "navbar.php";
                                 <tr>
                                     <td><?php echo $i ?></td>
                                     <td><?php echo $data['nama']; ?></td>
-                                    <td><?php echo $data['dihapus']; ?></td>
-                                    <td><a href="edit_merek.php?id=<?php echo$data['id_merek']; ?>">Edit </a></td>
+                                    <td><?php if($data['dihapus']=="T"){ echo "Tidak";} else echo "Ya" ?></td>
+                                    <td>
+                                        <a href="edit_merek.php?id_mrek=<?php echo $data['id_merk']; ?>">Edit </a>
+                                        / <a href="proses/hapus_merk.php?id_mrek=<?php echo $data['id_merk']; ?>">Hapus </a>
+                                    </td>
                                 </tr>
 
                                 <?php
