@@ -1,3 +1,13 @@
+<?php
+session_start();
+include 'proses/function.php';
+
+if ( ! is_login())
+{
+    header("Location:login.php");
+    exit();
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 

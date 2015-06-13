@@ -1,4 +1,14 @@
 <?php
+session_start();
+include 'proses/function.php';
+
+if ( ! is_login())
+{
+    header("Location:login.php");
+    exit();
+}
+?>
+<?php
 include "proses/lib_function.php";
 koneksi_db();
 ?>

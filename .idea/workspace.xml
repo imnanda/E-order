@@ -25,12 +25,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="tambah_merek.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tambah_merek.php">
+      <file leaf-file-name="tambah_produk.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tambah_produk.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.827586" vertical-offset="1140" max-vertical-offset="1980">
-              <caret line="64" column="66" selection-start-line="64" selection-start-column="58" selection-end-line="64" selection-end-column="66" />
-              <folding />
+            <state vertical-scroll-proportion="-6.206897" vertical-offset="0" max-vertical-offset="3420">
+              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+              <folding>
+                <marker date="1434158112389" expanded="true" signature="2501:2560" placeholder="SELECT id_ka..kategori..." />
+                <marker date="1434158112389" expanded="true" signature="3321:3372" placeholder="SELECT id_me..merk..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -38,55 +41,43 @@
       <file leaf-file-name="view_kategori.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/view_kategori.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.4482758" vertical-offset="1500" max-vertical-offset="2780">
-              <caret line="80" column="56" selection-start-line="80" selection-start-column="56" selection-end-line="80" selection-end-column="56" />
+            <state vertical-scroll-proportion="-6.206897" vertical-offset="0" max-vertical-offset="2980">
+              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
               <folding>
-                <marker date="1434155704150" expanded="true" signature="2585:2621" placeholder="SELECT id_ka..kategori..." />
+                <marker date="1434158112362" expanded="true" signature="2712:2748" placeholder="SELECT id_ka..kategori..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="view_merek.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="tambah_merek.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tambah_merek.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.206897" vertical-offset="0" max-vertical-offset="2180">
+              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tambah_kategori.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tambah_kategori.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.206897" vertical-offset="0" max-vertical-offset="2180">
+              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view_merek.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/view_merek.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.9444447" vertical-offset="1485" max-vertical-offset="2760">
-              <caret line="93" column="42" selection-start-line="93" selection-start-column="42" selection-end-line="93" selection-end-column="42" />
+            <state vertical-scroll-proportion="0.2877698" vertical-offset="0" max-vertical-offset="2960">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding>
-                <marker date="1434155924249" expanded="true" signature="2583:2634" placeholder="SELECT id_me..merk..." />
+                <marker date="1434158112341" expanded="true" signature="2710:2761" placeholder="SELECT id_me..merk..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hapus_merk.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/proses/hapus_merk.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.5172415" vertical-offset="0" max-vertical-offset="420">
-              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-              <folding>
-                <marker date="1434156082430" expanded="true" signature="94:136" placeholder="DELETE FROM ..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navbar.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/navbar.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-81.37931" vertical-offset="0" max-vertical-offset="2620">
-              <caret line="118" column="17" selection-start-line="118" selection-start-column="17" selection-end-line="118" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/login.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.793103" vertical-offset="300" max-vertical-offset="1000">
-              <caret line="35" column="112" selection-start-line="35" selection-start-column="112" selection-end-line="35" selection-end-column="112" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -94,20 +85,30 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="22.758621" vertical-offset="840" max-vertical-offset="2860">
-              <caret line="9" column="72" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="3000">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="2" />
               <folding>
-                <marker date="1434157442019" expanded="true" signature="2851:2871" placeholder="SELECT * FRO..produk..." />
+                <marker date="1434158049737" expanded="true" signature="2952:2972" placeholder="SELECT * FRO..produk..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="logout.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="edit_kategori.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proses/edit_kategori.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.137931" vertical-offset="0" max-vertical-offset="520">
+              <caret line="6" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logout.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/logout.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10544816" vertical-offset="0" max-vertical-offset="569">
-              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+            <state vertical-scroll-proportion="-2.0689654" vertical-offset="0" max-vertical-offset="200">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -116,8 +117,8 @@
       <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/proses/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.724138" vertical-offset="0" max-vertical-offset="580">
-              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+            <state vertical-scroll-proportion="-10.344828" vertical-offset="0" max-vertical-offset="580">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="25" />
               <folding>
                 <marker date="1434157394478" expanded="true" signature="121:192" placeholder="select * fro..admin..." />
               </folding>
@@ -125,11 +126,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="edit_kategori.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/edit_kategori.php">
+      <file leaf-file-name="function.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proses/function.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.793103" vertical-offset="300" max-vertical-offset="2540">
-              <caret line="35" column="7" selection-start-line="9" selection-start-column="0" selection-end-line="35" selection-end-column="7" />
+            <state vertical-scroll-proportion="-2.0689654" vertical-offset="0" max-vertical-offset="340">
+              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -148,27 +149,28 @@
         <option value="$PROJECT_DIR$/admin/index.php" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/tabah_produk.php" />
-        <option value="$PROJECT_DIR$/tambah_merek.php" />
         <option value="$PROJECT_DIR$/proses/lib_function.php" />
         <option value="$PROJECT_DIR$/proses/tambah_kategori.php" />
-        <option value="$PROJECT_DIR$/tambah_kategori.php" />
         <option value="$PROJECT_DIR$/proses/tambah_merek.php" />
         <option value="$PROJECT_DIR$/proses/tambah.php" />
         <option value="$PROJECT_DIR$/proses/tambah_produk.php" />
-        <option value="$PROJECT_DIR$/tambah_produk.php" />
         <option value="$PROJECT_DIR$/proses/edit_kategori.php" />
         <option value="$PROJECT_DIR$/edit_kategori.php" />
         <option value="$PROJECT_DIR$/proses/edit_merk.php" />
         <option value="$PROJECT_DIR$/edit_merek.php" />
         <option value="$PROJECT_DIR$/proses/hapus_kategori.php" />
-        <option value="$PROJECT_DIR$/view_kategori.php" />
-        <option value="$PROJECT_DIR$/view_merek.php" />
         <option value="$PROJECT_DIR$/proses/hapus_merk.php" />
         <option value="$PROJECT_DIR$/navbar.php" />
         <option value="$PROJECT_DIR$/login.php" />
         <option value="$PROJECT_DIR$/proses/login.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/logout.php" />
+        <option value="$PROJECT_DIR$/proses/function.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/tambah_kategori.php" />
+        <option value="$PROJECT_DIR$/tambah_merek.php" />
+        <option value="$PROJECT_DIR$/tambah_produk.php" />
+        <option value="$PROJECT_DIR$/view_kategori.php" />
+        <option value="$PROJECT_DIR$/view_merek.php" />
       </list>
     </option>
   </component>
@@ -220,34 +222,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="atol2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atol2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atol2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="proses" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atol2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atol2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -352,7 +326,9 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -361,8 +337,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="1560" max-vertical-offset="3220">
           <caret line="90" column="28" selection-start-line="90" selection-start-column="28" selection-end-line="90" selection-end-column="28" />
           <folding>
-            <marker date="1434115793841" expanded="true" signature="-1:-1" placeholder="SELECT id_ka..kategori..." />
-            <marker date="1434115793841" expanded="true" signature="-1:-1" placeholder="SELECT id_me..merk..." />
+            <marker date="1434158112389" expanded="true" signature="2501:2560" placeholder="SELECT id_ka..kategori..." />
+            <marker date="1434158112389" expanded="true" signature="3321:3372" placeholder="SELECT id_me..merk..." />
           </folding>
         </state>
       </provider>
@@ -398,7 +374,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="40" max-vertical-offset="2700">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="13" />
           <folding>
-            <marker date="1434155924249" expanded="true" signature="2583:2634" placeholder="SELECT id_me..merk..." />
+            <marker date="1434158112341" expanded="true" signature="2710:2761" placeholder="SELECT id_me..merk..." />
           </folding>
         </state>
       </provider>
@@ -424,7 +400,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="1351" max-vertical-offset="2660">
           <caret line="86" column="34" selection-start-line="86" selection-start-column="34" selection-end-line="86" selection-end-column="34" />
           <folding>
-            <marker date="1434155704150" expanded="true" signature="2585:2621" placeholder="SELECT id_ka..kategori..." />
+            <marker date="1434158112362" expanded="true" signature="2712:2748" placeholder="SELECT id_ka..kategori..." />
           </folding>
         </state>
       </provider>
@@ -434,7 +410,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2800">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1434157442019" expanded="true" signature="2851:2871" placeholder="SELECT * FRO..produk..." />
+            <marker date="1434158049737" expanded="true" signature="2952:2972" placeholder="SELECT * FRO..produk..." />
           </folding>
         </state>
       </provider>
@@ -452,8 +428,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="3080">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
-            <marker date="1434115793841" expanded="true" signature="-1:-1" placeholder="SELECT id_ka..kategori..." />
-            <marker date="1434115793841" expanded="true" signature="-1:-1" placeholder="SELECT id_me..merk..." />
+            <marker date="1434158112389" expanded="true" signature="2501:2560" placeholder="SELECT id_ka..kategori..." />
+            <marker date="1434158112389" expanded="true" signature="3321:3372" placeholder="SELECT id_me..merk..." />
           </folding>
         </state>
       </provider>
@@ -486,7 +462,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="1211" max-vertical-offset="2700">
           <caret line="88" column="69" selection-start-line="88" selection-start-column="69" selection-end-line="88" selection-end-column="69" />
           <folding>
-            <marker date="1434155924249" expanded="true" signature="2583:2634" placeholder="SELECT id_me..merk..." />
+            <marker date="1434158112341" expanded="true" signature="2710:2761" placeholder="SELECT id_me..merk..." />
           </folding>
         </state>
       </provider>
@@ -504,7 +480,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="320" max-vertical-offset="2700">
           <caret line="16" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
           <folding>
-            <marker date="1434155704150" expanded="true" signature="2585:2621" placeholder="SELECT id_ka..kategori..." />
+            <marker date="1434158112362" expanded="true" signature="2712:2748" placeholder="SELECT id_ka..kategori..." />
           </folding>
         </state>
       </provider>
@@ -530,8 +506,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="3080">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
-            <marker date="1434115793841" expanded="true" signature="-1:-1" placeholder="SELECT id_ka..kategori..." />
-            <marker date="1434115793841" expanded="true" signature="-1:-1" placeholder="SELECT id_me..merk..." />
+            <marker date="1434158112389" expanded="true" signature="2501:2560" placeholder="SELECT id_ka..kategori..." />
+            <marker date="1434158112389" expanded="true" signature="3321:3372" placeholder="SELECT id_me..merk..." />
           </folding>
         </state>
       </provider>
@@ -564,7 +540,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="1211" max-vertical-offset="2700">
           <caret line="88" column="69" selection-start-line="88" selection-start-column="69" selection-end-line="88" selection-end-column="69" />
           <folding>
-            <marker date="1434155924249" expanded="true" signature="2583:2634" placeholder="SELECT id_me..merk..." />
+            <marker date="1434158112341" expanded="true" signature="2710:2761" placeholder="SELECT id_me..merk..." />
           </folding>
         </state>
       </provider>
@@ -582,7 +558,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="320" max-vertical-offset="2700">
           <caret line="16" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
           <folding>
-            <marker date="1434155704150" expanded="true" signature="2585:2621" placeholder="SELECT id_ka..kategori..." />
+            <marker date="1434158112362" expanded="true" signature="2712:2748" placeholder="SELECT id_ka..kategori..." />
           </folding>
         </state>
       </provider>
@@ -628,34 +604,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tambah_produk.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.965517" vertical-offset="1800" max-vertical-offset="3220">
-          <caret line="103" column="26" selection-start-line="87" selection-start-column="20" selection-end-line="103" selection-end-column="26" />
-          <folding>
-            <marker date="1434115793841" expanded="true" signature="-1:-1" placeholder="SELECT id_ka..kategori..." />
-            <marker date="1434115793841" expanded="true" signature="-1:-1" placeholder="SELECT id_me..merk..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/proses/tambah_kategori.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.275862" vertical-offset="0" max-vertical-offset="400">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proses/edit_kategori.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.137931" vertical-offset="0" max-vertical-offset="520">
-          <caret line="6" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="2" />
-          <folding>
-            <marker date="1434153935797" expanded="true" signature="-1:-1" placeholder="UPDATE kateg..." />
-            <marker date="1434153935797" expanded="true" signature="-1:-1" placeholder="UPDATE kateg..." />
-            <marker date="1434153935797" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -679,14 +632,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tambah_kategori.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-41.0" vertical-offset="91" max-vertical-offset="1980">
-          <caret line="64" column="70" selection-start-line="64" selection-start-column="58" selection-end-line="64" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/proses/hapus_kategori.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.827586" vertical-offset="0" max-vertical-offset="420">
@@ -706,30 +651,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tambah_merek.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.827586" vertical-offset="1140" max-vertical-offset="1980">
-          <caret line="64" column="66" selection-start-line="64" selection-start-column="58" selection-end-line="64" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view_merek.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.9444447" vertical-offset="1485" max-vertical-offset="2760">
-          <caret line="93" column="42" selection-start-line="93" selection-start-column="42" selection-end-line="93" selection-end-column="42" />
-          <folding>
-            <marker date="1434155924249" expanded="true" signature="2583:2634" placeholder="SELECT id_me..merk..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/proses/hapus_merk.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.5172415" vertical-offset="0" max-vertical-offset="420">
           <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
           <folding>
-            <marker date="1434156082430" expanded="true" signature="94:136" placeholder="DELETE FROM ..." />
+            <marker date="1434156082430" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
           </folding>
         </state>
       </provider>
@@ -750,16 +677,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view_kategori.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.4482758" vertical-offset="1500" max-vertical-offset="2780">
-          <caret line="80" column="56" selection-start-line="80" selection-start-column="56" selection-end-line="80" selection-end-column="56" />
-          <folding>
-            <marker date="1434155704150" expanded="true" signature="2585:2621" placeholder="SELECT id_ka..kategori..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.793103" vertical-offset="300" max-vertical-offset="1000">
@@ -768,31 +685,94 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0689654" vertical-offset="0" max-vertical-offset="200">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/proses/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.724138" vertical-offset="0" max-vertical-offset="580">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        <state vertical-scroll-proportion="-10.344828" vertical-offset="0" max-vertical-offset="580">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="25" />
           <folding>
             <marker date="1434157394478" expanded="true" signature="121:192" placeholder="select * fro..admin..." />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/proses/function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0689654" vertical-offset="0" max-vertical-offset="340">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="22.758621" vertical-offset="840" max-vertical-offset="2860">
-          <caret line="9" column="72" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="3000">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="2" />
           <folding>
-            <marker date="1434157442019" expanded="true" signature="2851:2871" placeholder="SELECT * FRO..produk..." />
+            <marker date="1434158049737" expanded="true" signature="2952:2972" placeholder="SELECT * FRO..produk..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logout.php">
+    <entry file="file://$PROJECT_DIR$/proses/edit_kategori.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10544816" vertical-offset="0" max-vertical-offset="569">
-          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        <state vertical-scroll-proportion="-4.137931" vertical-offset="0" max-vertical-offset="520">
+          <caret line="6" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="2" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tambah_kategori.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.206897" vertical-offset="0" max-vertical-offset="2180">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tambah_merek.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.206897" vertical-offset="0" max-vertical-offset="2180">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tambah_produk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.206897" vertical-offset="0" max-vertical-offset="3420">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding>
+            <marker date="1434158112389" expanded="true" signature="2501:2560" placeholder="SELECT id_ka..kategori..." />
+            <marker date="1434158112389" expanded="true" signature="3321:3372" placeholder="SELECT id_me..merk..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view_kategori.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.206897" vertical-offset="0" max-vertical-offset="2980">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding>
+            <marker date="1434158112362" expanded="true" signature="2712:2748" placeholder="SELECT id_ka..kategori..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view_merek.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2877698" vertical-offset="0" max-vertical-offset="2960">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1434158112341" expanded="true" signature="2710:2761" placeholder="SELECT id_me..merk..." />
+          </folding>
         </state>
       </provider>
     </entry>
